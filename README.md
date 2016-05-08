@@ -22,3 +22,8 @@ Enjoy!!
 NOTES:
 Also this will be used for trying the NuclIDE (from Facebook) which is said the best IDE for Ractive.
 I will Give my feedback here as soon as i have an opinion on it.
+
+---
+
+#### Designed and implemented By: Sergio Lima
+###### Powered by: National Railways Enquiry (NRE)
