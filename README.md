@@ -1,4 +1,4 @@
-This is my first Reactnative app
+# This is my first React Native app
 
 I know the Reactive  has been around for around a year, it's now on the
 0.25 version, But i wasn't at all a fan of this hybrid kind of frameworks for mobile
