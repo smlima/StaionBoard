@@ -1,6 +1,6 @@
 # This is my first React Native app
 
-[![Circle CI](https://circleci.com/gh/smlima/StationBoard/tree/master.svg?style=svg)](https://circleci.com/gh/smlima/StationBoard/tree/master)
+CircleCI status: [![Circle CI](https://circleci.com/gh/smlima/StationBoard/tree/master.svg?style=svg)](https://circleci.com/gh/smlima/StationBoard/tree/master)
 
 
 I know the Reactive  has been around for around a year, it's now on the
